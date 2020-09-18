@@ -1,1 +1,1 @@
-https://sarvar95yil.io/rsschool-cv/cv.md
+https://sarvar95yil.io/rsschool-cv/cv
