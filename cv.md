@@ -3,6 +3,7 @@
 ## 2. Contacts
 
 - Phone: +99890 996-67-85
+- email: sarvar95yil@gmail.com
 - telegram: https://t.me/bartsimpson
 - VK: vk.com/sarvar_u
 
