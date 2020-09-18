@@ -68,6 +68,7 @@ function playGame() {
 ## 6. Experience
 
 I have no work experience, I studied various video lessons, as well as GLO Academy marathons. There is a portfolio site where other work that I did together is indicated, with video tutorials. In addition, I study from the book "Learning JavaScript Programming (Head First JavaScript Programming: A Brain-Friendly Guide)"
+You also can browse my newbie site: https://sarvar95yil.github.io/portfolio/
 
 ## 7. Education
 
